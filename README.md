@@ -32,16 +32,16 @@ etapa de transform. Fique a vontade para escolher o tipo da API (rest, soap, gra
 modelagem dos métodos e formato dos dados.
 
 Restrições
-    ● Você deve implementar o algoritmo de ordenação da etapa de "Transform". Não é
+    * Você deve implementar o algoritmo de ordenação da etapa de "Transform". Não é
     permitido utilizar nenhuma função/método que faça toda a ordenação pra você.
-    ● Não é permitido copiar a solução de outra pessoa. Integridade é um dos valores da
+    * Não é permitido copiar a solução de outra pessoa. Integridade é um dos valores da
     Cross Commerce.
     Fora essas duas restrições, você está livre para escolher a linguagem, modelagem, framework
     etc.
 
 O que vamos avaliar
-    ● Corretude;
-    ● Legibilidade;
-    ● Tolerância a falha;
-    ● Complexidade algorítmica;
-    ● Testes automáticos.
+    * Corretude;
+    * Legibilidade;
+    * Tolerância a falha;
+    * Complexidade algorítmica;
+    * Testes automáticos.
